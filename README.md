@@ -1,2 +1,2 @@
-# client_project_html_f24-2.0
-Creating a new repository for client project html to debug file issues. 
+# 539f24_Client_Project_Starter
+Starter code for the Fall 2024 SI 539 Client Project
